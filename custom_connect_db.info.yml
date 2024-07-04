@@ -1,0 +1,5 @@
+name: 'custom connect db'
+type: module
+description: 'com'
+package: Custom
+core_version_requirement: ^10 || ^11

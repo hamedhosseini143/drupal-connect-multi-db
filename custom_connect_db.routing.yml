@@ -1,0 +1,7 @@
+custom_connect_db.example:
+  path: '/custom-connect-db/example'
+  defaults:
+    _title: 'Example'
+    _controller: '\Drupal\custom_connect_db\Controller\CustomConnectDbController'
+  requirements:
+    _permission: 'access content'
